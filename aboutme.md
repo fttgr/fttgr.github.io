@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: On the subject of the truth
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Our name is Find The Truth Group.
+Headed by: Edgar Armadeus Doyle. We believe in:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- We believe in adherence to UK Charity Law
+
+- We believe in the truth 
+ 
+- We will get there, whatever the cost
 
 What else do you need?
 
-### My story
+### Our story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Visit [the charity commission](https://www.gov.uk/guidance/charity-commission-guidance) and it will answer **none** your questions.
