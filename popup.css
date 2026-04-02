@@ -79,32 +79,41 @@ h1 {
   background: var(--govuk-white);
 }
 
+.church-card-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+}
+
 .church-link {
   display: block;
   text-decoration: none;
   padding: 12px;
+  flex: 1;
 }
 
 .church-links {
   display: flex;
   gap: 8px;
-  padding: 0 12px 12px;
+  padding: 12px 12px 12px 0;
+  align-items: flex-start;
+  justify-content: flex-end;
 }
 
 .church-link-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   border-radius: 3px;
   color: var(--govuk-dark-blue);
   text-decoration: none;
 }
 
 .church-link-icon img {
-  width: 6px;
-  height: 6px;
+  width: 10px;
+  height: 10px;
   display: block;
 }
 
