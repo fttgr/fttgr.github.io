@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Church Charity Directory</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <header class="header">
+      <p class="govuk-kicker">The Charity Commission</p>
+      <h1>Church Charity Directory</h1>
+    </header>
+
+    <main>
+      <ul id="church-list" class="church-list" aria-label="Church charity list"></ul>
+    </main>
+
+    <template id="church-item-template">
+      <li class="church-card">
+        <a class="church-link" target="_blank" rel="noopener noreferrer">
+          <span class="church-name"></span>
+          <span class="church-number"></span>
+        </a>
+      </li>
+    </template>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

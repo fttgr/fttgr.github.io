@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Rules for Churches</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <header class="header">
+      <p class="govuk-kicker">The Charity Commission</p>
+      <h1>Rules for Churches</h1>
+    </header>
+
+    <main>
+      <div class="button-grid">
+        <p style="margin: 0; line-height: 1.5;">
+          Loading the Church Rule Book PDF… If it doesn't open automatically, use the button below.
+        </p>
+        <a class="nav-button secondary" href="rules-2022.pdf" target="_blank" rel="noopener noreferrer">
+          Open Church Rule Book (PDF)
+        </a>
+      </div>
+    </main>
+
+    <script>
+      // Auto-open the bundled PDF on load. Fallback link above remains available.
+      window.addEventListener("DOMContentLoaded", () => {
+        window.location.href = "rules-2022.pdf";
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Church Charity Directory",
+  "description": "One-click list of churches and charity numbers with direct links to Charity Commission profiles.",
+  "version": "1.0.0",
+  "action": {
+    "default_title": "Church Charity Directory",
+    "default_popup": "landing.html"
+  }
+}
