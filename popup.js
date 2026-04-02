@@ -49,10 +49,31 @@ function renderChurches(churches) {
     const link = item.querySelector(".church-link");
     const name = item.querySelector(".church-name");
     const number = item.querySelector(".church-number");
+    const peopleLink = item.querySelector(".church-link-people");
+    const facebookLink = item.querySelector(".church-link-facebook");
+    const websiteLink = item.querySelector(".church-link-website");
 
     link.href = church.url;
     name.textContent = church.name;
     number.textContent = `Charity number: ${church.charityNumber}`;
+
+    if (church.urlPeople) {
+      peopleLink.href = church.urlPeople;
+    } else {
+      peopleLink.remove();
+    }
+
+    if (church.faceBook) {
+      facebookLink.href = church.faceBook;
+    } else {
+      facebookLink.remove();
+    }
+
+    if (church.website) {
+      websiteLink.href = church.website;
+    } else {
+      websiteLink.remove();
+    }
 
     fragment.appendChild(item);
   });
