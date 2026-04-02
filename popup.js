@@ -36,7 +36,9 @@ function updateHeading(regionName) {
   const heading = document.querySelector("h1");
   if (!heading) return;
   const suffix = regionName && regionName !== "all" ? ` — ${formatRegionLabel(regionName)}` : "";
-  heading.textContent = `Church Charity Directory${suffix}`;
+  const title = `Church Directory${suffix}`;
+  heading.textContent = title;
+  document.title = title;
 }
 
 function renderChurches(churches) {
