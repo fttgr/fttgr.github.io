@@ -84,9 +84,8 @@ function renderChurches(churches) {
 function renderError(message) {
   list.innerHTML = "";
   const errorItem = document.createElement("li");
-  errorItem.className = "church-card";
+  errorItem.className = "church-card church-card--message";
   errorItem.textContent = message;
-  errorItem.style.padding = "12px";
   list.appendChild(errorItem);
 }
 

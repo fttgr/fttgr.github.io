@@ -79,6 +79,10 @@ h1 {
   background: var(--govuk-white);
 }
 
+.church-card--message {
+  padding: 12px;
+}
+
 .church-card-header {
   display: flex;
   justify-content: space-between;
@@ -148,4 +152,59 @@ h1 {
   display: block;
   color: var(--govuk-black);
   font-size: 14px;
+}
+
+.header-back-link {
+  margin: 6px 0 0;
+}
+
+.header-link {
+  color: var(--govuk-white);
+  text-decoration: underline;
+}
+
+.header-link:hover,
+.header-link:focus-visible {
+  color: #fffbe6;
+  outline: 2px solid #ffdd00;
+  outline-offset: 2px;
+}
+
+.district-content {
+  gap: 12px;
+}
+
+.district-content p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.content-card {
+  border: 1px solid var(--govuk-border);
+  background: var(--govuk-white);
+  padding: 12px;
+}
+
+.content-heading {
+  margin: 0 0 8px;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+.content-line {
+  margin: 0 0 4px;
+}
+
+.role-list {
+  margin: 0;
+  padding-left: 18px;
+  line-height: 1.5;
+}
+
+.role-list li + li {
+  margin-top: 6px;
+}
+
+.inline-meta {
+  display: block;
 }
