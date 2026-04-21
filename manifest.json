@@ -5,6 +5,6 @@
   "version": "1.0.0",
   "action": {
     "default_title": "Church Charity Directory",
-    "default_popup": "landing.html"
+    "default_popup": "index.html"
   }
 }
