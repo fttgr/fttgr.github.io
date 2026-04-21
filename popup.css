@@ -111,6 +111,8 @@ h1 {
 .church-links--vertical {
   flex-direction: column;
   align-items: center;
+  align-self: stretch;
+  justify-content: space-between;
 }
 
 .church-link-icon {
