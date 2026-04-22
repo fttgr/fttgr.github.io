@@ -23,12 +23,29 @@
         <a class="nav-button secondary" href="rules-2022.pdf" target="_blank" rel="noopener noreferrer">
           Open Church Rule Book (PDF)
         </a>
+        <a
+          id="mobile-viewer-link"
+          class="nav-button"
+          href="#"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Open PDF in Browser Viewer
+        </a>
       </div>
     </main>
 
     <script>
       // Auto-open the bundled PDF on load. Fallback link above remains available.
       window.addEventListener("DOMContentLoaded", () => {
+        const pdfUrl = new URL("rules-2022.pdf", window.location.href).href;
+        const mobileViewerUrl =
+          "https://docs.google.com/gview?embedded=1&url=" +
+          encodeURIComponent(pdfUrl);
+        const mobileViewerLink = document.getElementById("mobile-viewer-link");
+        if (mobileViewerLink) {
+          mobileViewerLink.href = mobileViewerUrl;
+        }
         window.location.href = "rules-2022.pdf";
       });
     </script>
