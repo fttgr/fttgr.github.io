@@ -4,7 +4,7 @@
     "charityNumber": "1164669",
     "region": "South",
     "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5072783/charity-overview?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5072783",
-    "urlPeople": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5072783/trustees?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5072783",
+    "urlPeople": "",
     "faceBook": "https://www.facebook.com/DSCAAC/?locale=en_GB",
     "website": "https://snu.org.uk/churches/darlington-spiritualist-church/"
   },
@@ -21,31 +21,46 @@
     "name": "MIDDLESBROUGH SPIRITUALIST CHURCH",
     "charityNumber": "1148035",
     "region": "South",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5029164?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5029164"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5029164?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5029164",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/Middlesbrough-SNU-Spiritualist-Church-61574125074520/",
+    "website": ""
   },
   {
     "name": "PHILADELPHIA SPIRITUALIST CHURCH",
     "charityNumber": "1178280",
     "region": "South",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5122416?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5122416"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5122416?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5122416",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/Philadelphia-SNU-Spiritualist-Church-UK-100064403033639/",
+    "website": ""
   },
   {
     "name": "SALTBURN SPIRITUALIST CHURCH",
     "charityNumber": "1160067",
     "region": "South",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5056521?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5056521"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5056521?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5056521",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/SNU-Saltburn-Spiritualist-Church-61573625540273/",
+    "website": ""
   },
   {
     "name": "SEAHAM SPIRITUALIST CHURCH",
     "charityNumber": "1159883",
     "region": "South",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5056640?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5056640"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5056640?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5056640",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/groups/383644181082/",
+    "website": ""
   },
   {
     "name": "SHILDON SPIRITUALIST CHURCH",
     "charityNumber": "1205234",
     "region": "South",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5228798/governance?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5228798"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5228798/governance?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5228798",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/groups/1006785538142457/",
+    "website": ""
   },
   {
     "name": "CHESTER-LE-STREET SPIRITUALIST CHURCH",
