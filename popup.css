@@ -119,16 +119,17 @@ h1 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 12px;
-  height: 12px;
+  width: 16px;
+  height: 16px;
   border-radius: 3px;
   color: var(--govuk-dark-blue);
   text-decoration: none;
 }
 
 .church-link-icon img {
-  width: 10px;
-  height: 10px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
   display: block;
 }
 
