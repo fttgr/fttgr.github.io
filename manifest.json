@@ -1,17 +1,17 @@
 {
   "manifest_version": 3,
-  "name": "Church Charity Directory",
+  "name": "Church Directory",
   "description": "One-click list of churches and charity numbers with direct links to Charity Commission profiles.",
   "version": "1.0.0",
   "icons": {
-    "192": "icons/ndc-icon-192.png",
-    "512": "icons/ndc-icon-512.png"
+    "192": "icons/ndc-doc-icon-192.png",
+    "512": "icons/ndc-doc-icon-512.png"
   },
   "action": {
-    "default_title": "Church Charity Directory",
+    "default_title": "Church Directory",
     "default_popup": "index.html",
     "default_icon": {
-      "192": "icons/ndc-icon-192.png"
+      "192": "icons/ndc-doc-icon-192.png"
     }
   }
 }

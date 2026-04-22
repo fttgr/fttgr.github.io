@@ -8,13 +8,13 @@
   "theme_color": "#0f4c81",
   "icons": [
     {
-      "src": "icons/ndc-icon-192.png",
+      "src": "icons/ndc-doc-icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/ndc-icon-512.png",
+      "src": "icons/ndc-doc-icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
