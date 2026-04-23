@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Appendix 4 Nomination Form</title>
+    <link rel="stylesheet" href="form.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Model SNU Church Nomination Form</h1>
+      <p class="subtitle">(see Church Rule 12(1))</p>
+
+      <form id="appendix4-form" novalidate>
+        <section class="card">
+          <h2>Church Details</h2>
+          <label for="churchName">Church Name</label>
+          <input id="churchName" name="churchName" type="text" autocomplete="organization" />
+
+          <div class="grid-2">
+            <div>
+              <label for="agmYear">AGM Year</label>
+              <input id="agmYear" name="agmYear" type="number" min="1900" max="2100" inputmode="numeric" />
+            </div>
+            <div>
+              <label for="returnBy">Return By Date</label>
+              <input id="returnBy" name="returnBy" type="date" />
+            </div>
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>Committee Positions</h2>
+          <p class="hint">Add nominee names and current holders where shown in Appendix 4.</p>
+
+          <div class="position-row">
+            <label for="presidentNominee">President (Nominee)</label>
+            <input id="presidentNominee" name="presidentNominee" type="text" />
+            <label for="presidentHolder">Present Holder</label>
+            <input id="presidentHolder" name="presidentHolder" type="text" />
+          </div>
+
+          <div class="position-row">
+            <label for="vicePresident1Nominee">Vice-President 1 (Nominee)</label>
+            <input id="vicePresident1Nominee" name="vicePresident1Nominee" type="text" />
+            <label for="vicePresident1Holder">Present Holder</label>
+            <input id="vicePresident1Holder" name="vicePresident1Holder" type="text" />
+          </div>
+
+          <div class="position-row">
+            <label for="vicePresident2Nominee">Vice-President 2 (Nominee)</label>
+            <input id="vicePresident2Nominee" name="vicePresident2Nominee" type="text" />
+            <label for="vicePresident2Holder">Present Holder</label>
+            <input id="vicePresident2Holder" name="vicePresident2Holder" type="text" />
+          </div>
+
+          <div class="position-row">
+            <label for="treasurerNominee">Treasurer (Nominee)</label>
+            <input id="treasurerNominee" name="treasurerNominee" type="text" />
+            <label for="treasurerHolder">Present Holder</label>
+            <input id="treasurerHolder" name="treasurerHolder" type="text" />
+          </div>
+
+          <div class="position-row">
+            <label for="secretaryNominee">Secretary (Nominee)</label>
+            <input id="secretaryNominee" name="secretaryNominee" type="text" />
+            <label for="secretaryHolder">Present Holder</label>
+            <input id="secretaryHolder" name="secretaryHolder" type="text" />
+          </div>
+
+          <div class="position-row">
+            <label for="ordinaryMember1">Ordinary Member (1)</label>
+            <input id="ordinaryMember1" name="ordinaryMember1" type="text" />
+            <label for="ordinaryMember2">Ordinary Member (2)</label>
+            <input id="ordinaryMember2" name="ordinaryMember2" type="text" />
+          </div>
+
+          <div class="position-row">
+            <label for="ordinaryMember3">Ordinary Member (3)</label>
+            <input id="ordinaryMember3" name="ordinaryMember3" type="text" />
+            <label for="ordinaryMember4">Ordinary Member (4)</label>
+            <input id="ordinaryMember4" name="ordinaryMember4" type="text" />
+          </div>
+
+          <label for="presentOrdinaryMembers">Present Ordinary Members</label>
+          <textarea id="presentOrdinaryMembers" name="presentOrdinaryMembers" rows="4"></textarea>
+
+          <div class="position-row">
+            <label for="churchRepresentativeNominee">Church Representative (Nominee)</label>
+            <input id="churchRepresentativeNominee" name="churchRepresentativeNominee" type="text" />
+            <label for="churchRepresentativeHolder">Present Holder</label>
+            <input id="churchRepresentativeHolder" name="churchRepresentativeHolder" type="text" />
+          </div>
+
+          <div class="position-row">
+            <label for="snuTrustRepresentativeNominee">SNU Trust Representative (Nominee)</label>
+            <input id="snuTrustRepresentativeNominee" name="snuTrustRepresentativeNominee" type="text" />
+            <label for="snuTrustRepresentativeHolder">Present Holder</label>
+            <input id="snuTrustRepresentativeHolder" name="snuTrustRepresentativeHolder" type="text" />
+          </div>
+        </section>
+
+        <section class="card warning">
+          <h2>Submission Instructions</h2>
+          <p><strong>DO NOT SIGN THIS FORM.</strong></p>
+          <p>
+            This nomination form, unsigned, must be sealed inside the small envelope, which must then be enclosed
+            inside the larger envelope.
+          </p>
+          <p>
+            On the outside of the larger envelope put your name in block letters, your signature and the date.
+            Return to the Secretary in person or by post, or place it in the church box provided.
+          </p>
+          <label for="closingDate">Closing Date</label>
+          <input id="closingDate" name="closingDate" type="date" />
+        </section>
+
+        <section class="actions">
+          <button type="button" id="saveButton">Save for Later</button>
+          <button type="button" id="clearButton" class="secondary">Clear Saved Data</button>
+          <span id="status" aria-live="polite"></span>
+        </section>
+      </form>
+    </main>
+
+    <script src="form.js"></script>
+  </body>
+</html>
