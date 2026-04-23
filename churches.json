@@ -66,109 +66,163 @@
     "name": "CHESTER-LE-STREET SPIRITUALIST CHURCH",
     "charityNumber": "Not Registered",
     "region": "North",
-    "url": "https://snu.org.uk/churches/chester-le-street-spiritualist-church/"
+    "url": "https://snu.org.uk/churches/chester-le-street-spiritualist-church/",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/Chester-Le-Street-SNU-Spiritualist-Church-100084051030900/",
+    "website": ""
   },
   {
     "name": "CRAMLINGTON SPIRITUALIST CHURCH",
     "charityNumber": "Not Registered",
     "region": "North",
-    "url": "https://snu.org.uk/churches/cramlington-spiritualist-church/"
+    "url": "https://snu.org.uk/churches/cramlington-spiritualist-church/",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/CramlingtonSNUSpiritualistChurch/",
+    "website": ""
   },
   {
     "name": "ASHINGTON & BEDLINGTON SPIRITUALIST CHURCH",
     "charityNumber": "1170203",
     "region": "North",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5091735?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5091735"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5091735?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5091735",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/Ashington-and-Bedlington-SNU-Spiritualist-Church-100067771359100/",
+    "website": ""
   },
   {
     "name": "HEATON & BYKER SPIRITUALIST CHURCH",
     "charityNumber": "Not Registered",
     "region": "North",
-    "url": "https://snu.org.uk/churches/newcastle-heaton-byker-spiritualist-church/"
+    "url": "https://snu.org.uk/churches/newcastle-heaton-byker-spiritualist-church/",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/Heaton-Byker-Spiritualist-Church-100071343310354/",
+    "website": ""
   },
   {
     "name": "NORTH SHIELDS SPIRITUALIST CHURCH",
     "charityNumber": "1162246",
     "region": "North",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064802?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064802"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064802?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064802",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/northshields.spiritualistchurch/",
+    "website": ""
   },
   {
     "name": "SEATON DELAVAL SPIRITUALIST CHURCH",
     "charityNumber": "1162253",
     "region": "North",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064820?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064820"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064820?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064820",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/seatondelavalsnu/?locale=en_GB",
+    "website": ""
   },
   {
     "name": "WALLSEND SPIRITUALIST CHURCH",
     "charityNumber": "1162248",
     "region": "West",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064843?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064843"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064843?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064843",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/groups/1425370511065640/?locale=en_GB",
+    "website": ""
   },
   {
     "name": "BIRTLEY SPIRITUALIST CHURCH",
     "charityNumber": "1160210",
     "region": "East",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057774?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057774"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057774?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057774",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/Birtley-Spiritualist-Church-100066605682610/",
+    "website": ""
   },
   {
     "name": "BLACKHILL SPIRITUALIST CHURCH",
     "charityNumber": "1162252",
     "region": "East",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064816?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064816"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064816?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064816",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/Blackhill-SNU-Spiritualist-Church-100091271472651/",
+    "website": ""
   },
   {
     "name": "JARROW SNU CHURCH",
     "charityNumber": "1151162",
     "region": "West",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5034518?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5034518"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5034518?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5034518",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/jarrowspiritualchurch/?locale=en_GB",
+    "website": ""
   },
   {
     "name": "DURHAM SPIRITUALIST CHURCH",
     "charityNumber": "1160068",
     "region": "West",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057407?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057407"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057407?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057407",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/DurhamSpiritualistChurch/",
+    "website": ""
   },
   {
     "name": "CRAGHEAD SPIRITUALIST CHURCH",
     "charityNumber": "1162205",
     "region": "West",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064151?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064151"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5064151?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5064151",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/Craghead-Spiritualist-Church-1641688592728736/",
+    "website": ""
   },
   {
     "name": "SPENNYMOOR SPIRITUALIST CHURCH",
     "charityNumber": "1160153",
     "region": "West",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057452?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057452"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057452?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057452",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/SpennymoorSpiritualistChurch",
+    "website": ""
   },
   {
     "name": "WILLINGTON SPIRITUALIST CHURCH",
     "charityNumber": "Not Registered",
     "region": "West",
-    "url": "https://snu.org.uk/churches/willington-spiritualist-church/"
+    "url": "https://snu.org.uk/churches/willington-spiritualist-church/",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/groups/1401093198473681/about",
+    "website": ""
   },
   {
     "name": "BILLINGHAM SPIRITUALIST CHURCH",
     "charityNumber": "1160766",
     "region": "East",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5059618/charity-overview?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5059618"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5059618/charity-overview?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5059618",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/New-Billingham-Spiritualist-Church-100066842652431/?locale=en_GB",
+    "website": ""
   },
   {
     "name": "GATESHEAD EDEN PROGRESSIVE SPIRITUALIST CHURCH",
     "charityNumber": "1160229",
     "region": "East",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057767?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057767"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057767?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057767",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/Gatesheadedenprogressive/",
+    "website": ""
   },
   {
     "name": "MONKWEARMOUTH SPIRITUALIST CHURCH",
     "charityNumber": "1199613",
     "region": "East",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5201007?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5201007"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5201007?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5201007",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/groups/1256792721159762/",
+    "website": ""
   },
   {
     "name": "NEWCASTLE SPIRITUAL EVIDENCE SOCIETY",
     "charityNumber": "1160328",
     "region": "North",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057874?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057874"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5057874?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5057874",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/NewcastleSpiritualEvidenceSociety/",
+    "website": ""
   },
   {
     "name": "SOUTH SHIELDS SPIRITUALIST CHURCH",
@@ -180,12 +234,18 @@
     "name": "SUNDERLAND SPIRITUALIST CHURCH",
     "charityNumber": "1175656",
     "region": "East",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5112522?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5112522"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5112522?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5112522",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/Sunderland-Spiritualist-Church-100069623815312/?locale=en_GB",
+    "website": ""
   },
   {
     "name": "GATESHEAD & WHICKHAM SPIRITUALIST CENTRE",
     "charityNumber": "1180655",
     "region": "East",
-    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5131435?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5131435"
+    "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5131435?_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_organisationNumber=5131435",
+    "urlPeople": "",
+    "faceBook": "https://www.facebook.com/p/Gateshead-and-Whickham-Spiritualist-Centre-100078056169317/?locale=en_GB",
+    "website": ""
   }
 ]
